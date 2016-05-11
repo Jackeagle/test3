@@ -101,7 +101,7 @@
                 android:icon="@drawable/ic_settings_home"
                 />
 
-	<!-- Infinitive World -->
+	<!-- The Infinite Dimension -->
         <dashboard-tile
                 android:id="@+id/io_settings"
                 android:title="@string/io_settings_title"
