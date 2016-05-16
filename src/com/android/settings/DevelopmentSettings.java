@@ -269,7 +269,7 @@ public class DevelopmentSettings extends SettingsPreferenceFragment
 
     private ListPreference mRootAccess;
     private Object mSelectedRootValue;
-    
+
     private ColorModePreference mColorModePreference;
 
     private final ArrayList<Preference> mAllPrefs = new ArrayList<Preference>();
